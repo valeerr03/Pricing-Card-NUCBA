@@ -1,0 +1,25 @@
+@media (max-width: 1200px) {
+    #pricing-card{
+        padding: 50px;
+    }
+    
+    #principal-card{
+        flex-direction: column;
+        height: 1500px;
+        padding: 100px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media (max-width: 992px) {
+    #pricing-card{
+        padding: 50px;
+    }
+
+    #principal-card{
+        height: 1000;
+        width: 300px;
+        padding: 40px;
+    }
+}
